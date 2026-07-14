@@ -575,7 +575,6 @@ PRODUCT_PACKAGES += \
     libubwcp \
     libvideotxr \
     libvmfilexfer \
-    libvmmem \
     libwifiobserver \
     libwms \
     libwqe \
@@ -622,16 +621,6 @@ PRODUCT_PACKAGES += \
     libsw2dlut_dsp_skel \
     sensors.moto \
     sensors.ssc \
-    libbundleaidl \
-    libdownmixaidl \
-    libdynamicsprocessingaidl \
-    libloudnessenhanceraidl \
-    libqcompostprocbundle \
-    libqcomvisualizer \
-    libqcomvoiceprocessing \
-    libreverbaidl \
-    libvisualizeraidl \
-    libvolumelistener \
     vendor.libdpmctmgr \
     vendor.libdpmfdmgr \
     vendor.libdpmframework \
